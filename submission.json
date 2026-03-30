@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic photograph of a tailor in a workshop crafting an extremely strange, overly complex suit that perfectly fits one oddly shaped mannequin, while several normal mannequins nearby cannot wear it at all, hyper realistic, cinematic lighting, detailed textures, no text, no diagrams",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A suit perfectly tailored to one unusual body but unusable for others, representing a model that fits training data but fails to generalize"
+}
